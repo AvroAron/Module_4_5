@@ -1,0 +1,26 @@
+nav ul{
+    display: flex;
+    margin-right: 10px;
+}
+nav li {
+    list-style: none;
+    padding: 10px;
+}
+nav li:hover{
+    background-color: aliceblue;
+}
+footer{
+    margin-top: 40px;;
+    text-align: center;
+}
+label{
+    display: block;
+    margin-bottom: 10px;
+}
+table{
+    border-collapse: collapse;
+}
+td, th{
+    border: 1px solid black;
+    padding: 5px 10px;
+}
